@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python.
 # -*- coding: utf-8 -*-
 
 '''contour_plot.py: Contains a basic contour plotting routine using matplotlib'''
